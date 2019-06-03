@@ -52,3 +52,7 @@ captures/
 !/example/example-release-v7.apk
 !/example/proguard-rules.pro
 .idea/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
